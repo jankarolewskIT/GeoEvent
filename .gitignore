@@ -1,0 +1,5 @@
+.idea
+gdal-1.11.2
+proj-4.9.1
+__pycache__
+.gitignore
